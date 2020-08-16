@@ -150,9 +150,9 @@ Update `__version__` in `__about__.py` and `pyproject.toml`::
    :alt: Docs
    :target: https://github.com/cihai/unihan-db/actions?query=workflow%3A"Publish+Docs"
 
-.. |build-status| image:: https://github.com/cihai/unihan-db/workflows/test/badge.svg
+.. |build-status| image:: https://github.com/cihai/unihan-db/workflows/tests/badge.svg
    :alt: Build Status
-   :target: https://github.com/cihai/unihan-db/actions?query=workflow%3A"test"
+   :target: https://github.com/cihai/unihan-db/actions?query=workflow%3A"tests"
 
 .. |coverage| image:: https://codecov.io/gh/cihai/unihan-db/branch/master/graph/badge.svg
     :alt: Code Coverage
