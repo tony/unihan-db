@@ -8,7 +8,7 @@ You can specify a custom database destination by passing a database url
 into `get_session`_.
 
 .. _SQLAlchemy: https://www.sqlalchemy.org/
-.. _get_session: http://unihan-db.git-pull.com/en/latest/api.html#unihan_db.bootstrap.get_session
+.. _get_session: http://unihan-db.git-pull.com/api.html#unihan_db.bootstrap.get_session
 .. _XDG data directory: https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html
 
 Example usage
@@ -134,7 +134,7 @@ Update `__version__` in `__about__.py` and `pyproject.toml`::
 .. _cihai: https://cihai.git-pull.com
 .. _unihan-etl: https://unihan-etl.git-pull.com
 .. _libUnihan: http://libunihan.sourceforge.net/
-.. _API: http://unihan-db.git-pull.com/en/latest/api.html
+.. _API: http://unihan-db.git-pull.com/api.html
 .. _UNIHAN: http://www.unicode.org/charts/unihan.html
 .. _poetry: https://python-poetry.org/
 .. _entr(1): http://eradman.com/entrproject/
